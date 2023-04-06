@@ -14,6 +14,6 @@ test('basic test', () => {
   ];
 
   data = sortPlayers(data);
-  
+
   expect(data).toEqual(standard);
 });
