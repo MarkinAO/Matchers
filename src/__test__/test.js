@@ -1,4 +1,4 @@
-import sortPlayers from '../js/app';
+import sortPlayers from '../js/main';
 
 test('basic test', () => {
   let data = [
